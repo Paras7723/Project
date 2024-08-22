@@ -1,3 +1,3 @@
 <div class="copyrights">
-	 <p>TMS. All Rights Reserved |  <a href="#">TMS</a> </p>
+	 <p>All Rights Reserved |  <a href="#">E-Notice Board</a> </p>
 </div>	
