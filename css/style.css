@@ -135,19 +135,33 @@ i.fa.fa-lock {
 /*-- /header --*/
 /*-- banner --*/
 .banner {
-    background: url(../images/R.jpeg)no-repeat;
+    background: url(../images/p.jpeg)no-repeat;
     background-size: cover;
     -webkit-background-size: cover;
     -o-background-size: cover;
     -ms-background-size: cover;
     -moz-background-size: cover;
     min-height: 600px;
+    filter: brightness(100%);
+    filter: contrast(90%);
+    
 }
 .banner h1{
-    font-size: 50px;
+    font-size: 40px;
     margin-bottom: 70px;
     padding: 4em 0 0;
     text-align: center;
+    color: #34ad00;
+    filter: brightness(10000%);
+    color: white;
+    
+    
+}
+
+.highlitedtext{
+    display:inline-block;
+    padding: .25em 0;
+    background: green;
     
 }
 .bann-info h2 {

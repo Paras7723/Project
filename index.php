@@ -32,7 +32,7 @@ include('includes/config.php');
 <?php include('includes/header.php');?>
 <div class="banner">
 <div class="container">
-		<h1 class="wow zoomIn animated animated" data-wow-delay=".5s" style="visibility: visible; animation-delay: 0.5s; animation-name: zoomIn;" >The Smart Way to Share News!</h1>
+		<h1 class="wow zoomIn animated animated" data-wow-delay=".5s" style="visibility: visible; animation-delay: 0.5s; animation-name: zoomIn;" ><span class="highlitedtext">The Smart Way to Share News!</span></h1>
 	</div>
 </div>
 
